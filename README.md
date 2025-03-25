@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Praneeta Shirke
-- 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning Java
+- 👀 I’m a tech enthusiast.
+- 🌱 I’m currently pursuing my bachelors of computer Science
 - 📫 How to reach me praneetashirke30@gmail.com
 - 😄 Pronouns: she/her
 
